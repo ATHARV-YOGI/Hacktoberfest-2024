@@ -4,7 +4,7 @@
 
 <hr>
 
-## About Our Project Algorithm Visualizer
+## About Our Project "Algorithm Visualizer"
 
 - **Algorithm Visualizer Visualize sorting algorithms in C++ with SDL2 Library**
 
@@ -15,7 +15,7 @@ Hacktoberfest 2024
 
 # 📌 Videos 📽️:
 
-- [Hacktoberfest Intro](https://www.youtube.com/watch?v=mq_FIHdxmIk)
+- [Hacktoberfest Intro](https://youtu.be/m9yEK4UZTRw?si=S0HyD72JtDhLrY4M)
 - [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
 - [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
 
