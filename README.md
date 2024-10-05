@@ -98,7 +98,7 @@ A sorting algorithm is an algorithm that puts the elements of a list in a certai
 
 **How To Run**
 
-You can also run Sorting Visualizer using the C++ source code available in the repository i.e., Sorting Visualizer.cpp but you will need to install and setup the SDL2 library first. I recommend you follow Lazy Foo' Productions' tutorial to setup SDL2 Library. PLEASE NOTE THAT the tutorial follows to setup SDL2 32-bit library but to run Sorting Visualizer, you have to use the 64-bit library. Just use x86_64-w64-mingw32 folder instead of i686-w64-mingw32 to setup the SDL2 files.-> How to download and setup SDL2 library. After setting up the SDL2 library, just include the Sorting Visualizer.cpp file from the repository in your project with the build options as mentioned in the tutorial and build and run the project.
+You can also run Algorithm Visualizer using the C++ source code available in the repository i.e., Algorithm Visualizer.cpp but you will need to install and setup the SDL2 library first. I recommend you follow Lazy Foo' Productions' tutorial to setup SDL2 Library. PLEASE NOTE THAT the tutorial follows to setup SDL2 32-bit library but to run Sorting Visualizer, you have to use the 64-bit library. Just use x86_64-w64-mingw32 folder instead of i686-w64-mingw32 to setup the SDL2 files.-> How to download and setup SDL2 library. After setting up the SDL2 library, just include the Sorting Visualizer.cpp file from the repository in your project with the build options as mentioned in the tutorial and build and run the project.
 
 **Controls**
 
@@ -113,5 +113,5 @@ Available Controls inside Sorting Visualizer:-
 - Use 4 to start Merge Sort Algorithm.
 - Use 5 to start Quick Sort Algorithm.
 - Use 6 to start Heap Sort Algorithm.
-- Use q to exit out of Sorting Visualizer
+- Use q to exit out of Algorithm Visualizer
 
