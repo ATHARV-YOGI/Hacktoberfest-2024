@@ -104,7 +104,7 @@ You can also run Algorithm Visualizer using the C++ source code available in the
 
 WARNING: Giving repetitive commands may cause latency and the visualizer may behave unexpectedly. Please give a new command only after the current command's execution is done.
 
-Available Controls inside Sorting Visualizer:-
+Available Controls inside Algorithm Visualizer:-
 
 - Use 0 to Generate a different randomized list.
 - Use 1 to start Selection Sort Algorithm.
